@@ -32,7 +32,7 @@ This is an AI-based web application that predicts whether a loan will be approve
 ## 📎 Links
 
 - 🔗 **Live App on Render:** [https://your-render-link](https://your-render-link)
-- 🧑‍💻 **GitHub Repository:** [https://github.com/your-username/loan-approval-app](https://github.com/your-username/loan-approval-app)
+- 🧑‍💻 **GitHub Repository:** - 🧑‍💻 **GitHub Repository:**(https://github.com/PNB001/Loan_Approval_Model.git)
 
 ## 📝 Installation (for local development)
 
